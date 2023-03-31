@@ -5,11 +5,13 @@ body {
   #skills {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: left-center;
+    
   }
   
   #skills div {
     margin-right: 20px;
+    margin-bottom: 80px;
   }
   
   #skills ul {
@@ -22,6 +24,3 @@ body {
     font-weight: bold;
     margin-right: 10px;
   }
-  
-  
-  
