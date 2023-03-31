@@ -24,3 +24,9 @@ body {
     font-weight: bold;
     margin-right: 10px;
   }
+  body {
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+  }
+  
+  
